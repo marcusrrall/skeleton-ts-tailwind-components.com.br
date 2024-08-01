@@ -16,4 +16,7 @@
 
 ## Learn more
 
-- É preciso.
+- É preciso alterar o caminho do seu tema nos arquivos:
+  -- tailwind.config.js
+  -- tsconfig.json
+  -- webpack.mix.js
