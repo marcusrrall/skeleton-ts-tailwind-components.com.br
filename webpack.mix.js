@@ -10,8 +10,7 @@ mix.postCss(
 // Combina estilos de bibliotecas externas
 mix.styles(
   [
-    'node_modules/hover.css/css/hover.css',
-    'node_modules/slick-carousel/slick/slick.css',
+    // diretórios seus arquivos CSS
   ],
   'wp-content/themes/my-theme/public/css/libs.min.css',
 );
@@ -19,8 +18,7 @@ mix.styles(
 // Combina scripts de bibliotecas externas
 mix.scripts(
   [
-    'node_modules/wowjs/dist/wow.js',
-    'node_modules/slick-carousel/slick/slick.min.js',
+    // diretórios seus arquivos js
   ],
   'wp-content/themes/my-theme/public/js/template.min.js',
 );
