@@ -8,5 +8,5 @@
     "forceConsistentCasingInFileNames": true
   },
   "include": ["./wp-content/themes/my-theme/resources/ts/**/*.ts"],
-  "exclude": ["node_modules"]
+  "exclude": ["./node_modules"]
 }
